@@ -34,7 +34,7 @@
 			<workerType>Micro</workerType>
 			<redeploy>true</redeploy>
 			<environment>Sandbox</environment>
-		 </configuration>
+		</configuration>
 		<executions>
 			<execution>
 				<id>deploy</id>
